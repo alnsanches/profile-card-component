@@ -50,7 +50,6 @@ body {
 #user .local {
     text-align: center;
     color: hsl(0, 0%, 59%);
-
 }
 
 span {
@@ -61,7 +60,7 @@ span {
 .linha-horizontal {
     width: 350px;
     margin-bottom: 10px;
-    border: 1px solid hsl(0, 5%, 64%)
+    border: 1px solid hsl(0, 5%, 64%);
 }
 
 #metricas {
@@ -71,9 +70,6 @@ span {
     justify-content: space-between;
     padding: 20px;
     margin-top: -20px;
-
-
-
 }
 
 #metricas .number {
@@ -81,7 +77,6 @@ span {
     font-size: 18px;
     padding-right: 8px;
     text-transform: uppercase;
-
 }
 
 #metricas .text {
@@ -89,24 +84,4 @@ span {
     font-size: 16px;
     margin-left: -130px;
     color: hsl(0, 0%, 59%);
-}
-
-/*
-#infos {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-}
-
-#infos .text {
-    margin-top: 25px;
-    justify-content: space-between;
-
-}
-
-#infos .number {
-    margin-top: -20px;
-    justify-content: space-between;
-
 }
